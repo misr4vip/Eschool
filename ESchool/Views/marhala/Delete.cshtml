@@ -1,0 +1,30 @@
+﻿@model ESchool.Models.marhala
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<span class="bg-danger p-3 m-2 text-white">هل تريد حقا حذف هذه المرحلة؟</span>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color">
+    <input type="submit" value="حذف" class="btn btn-primary" /> |
+    @Html.ActionLink("عودة للقائمة", "Index", null, new { @class = "btn btn-primary" })
+</div>
+    }
+</div>
