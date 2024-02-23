@@ -1,0 +1,86 @@
+﻿@model ESchool.Models.MemberExpenses
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<span class="bg-danger mb-5 p-2 text-white">هل أنت متاكد من الحذف ؟ لايمكن التراجع بعدها</span>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.user.IdentityId)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.user.IdentityId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.expensesText)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.expensesText)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExpensesValue)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.ExpensesValue)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.YearOfStudy)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.YearOfStudy)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Semster)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Semster)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Vat)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Vat)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Discount)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Discount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TotalExpensesValue)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.TotalExpensesValue)
+        </dd>
+
+
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="حذف" class="btn btn-mainColor" /> |
+            @Html.ActionLink("عودة للقائمة", "Index",null,new {@class = "btn btn-mainColor" })
+        </div>
+    }
+</div>

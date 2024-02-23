@@ -1,0 +1,69 @@
+﻿@model ESchool.Models.DisposalDocument
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<h3 class="bg-danger text-white">هل أنت متأكد من الحذف لا يمكن التراجع ؟ </h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.user.Name)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.user.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOfPay)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.DateOfPay)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Thisfor)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Thisfor)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Notes)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Notes)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.payType)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.payType)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="حذف" class="btn btn-primary" /> |
+            @Html.ActionLink("عودة للقائمة ", "Index",null,new { @class = "btn btn-primary" })
+        </div>
+    }
+</div>

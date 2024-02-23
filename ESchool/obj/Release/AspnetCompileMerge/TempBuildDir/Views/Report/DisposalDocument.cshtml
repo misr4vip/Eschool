@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "DisposalDocument";
+}
+
+@*<h2>DisposalDocument</h2>*@
+@{ 
+    string path = "../../Doc/Document" + ViewBag.Id + ".pdf";
+}
+<iframe src="@path" class="img-fluid col-md-12"
+        style=" height:500px;" frameborder="0"></iframe>
+
+
+

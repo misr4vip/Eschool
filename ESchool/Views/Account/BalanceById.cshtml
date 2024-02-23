@@ -1,0 +1,119 @@
+﻿@model IEnumerable<ESchool.Models.ApplicationUser>
+
+@{
+    ViewBag.Title = "BalanceById";
+}
+
+<h2>التسوية المالية</h2>
+
+<table class="table table-bordered">
+    <tr class="bg-mainColor text-center text-white">
+        <th colspan="4">الرسوم الدراسية حسب الأعوام </th>
+    </tr>
+    <tr class="bg-mainColor text-white">
+        <th>
+            م
+        </th>
+        <th>
+            السنة الدراسية
+        </th>
+        <th>
+            الرسوم
+        </th>
+        <th>
+            المبلغ
+        </th>
+    </tr>
+
+    @{
+        int a = 1;
+        foreach (var item in Model.FirstOrDefault().expenses)
+        {
+            <tr>
+                <td>
+                    @a
+                </td>
+               
+                    <td>
+                        @Html.DisplayFor(modelItem => item.YearOfStudy)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.expensesText)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ExpensesValue)
+                    </td>
+                
+            </tr>
+            a++;
+           
+        }
+
+        <tr class="bg-light">
+            <td></td>
+            <td>المجموع</td>
+            <td colspan="2" class="text-center">
+                @Model.FirstOrDefault().expenses.Sum(e => e.ExpensesValue)
+            </td>
+        </tr>
+    }
+
+</table>
+
+<table class="table table-bordered">
+    <tr class="bg-mainColor text-center text-white">
+        <th colspan="4">اجمالي المبالغ المدفوعة</th>
+    </tr>
+    <tr class="bg-mainColor text-white">
+        <th>
+            م
+        </th>
+        <th>
+            رقم السند
+        </th>
+        <th>
+            التاريخ
+        </th>
+
+        <th>
+            المبلغ
+        </th>
+    </tr>
+
+    @{
+        int a1 = 1;
+        foreach (var item in Model.FirstOrDefault().disposals)
+        {
+        <tr>
+            <td>
+                @a1
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfPay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+
+        </tr>
+            a1++;
+           
+        }
+
+        <tr class="bg-light">
+            
+            <td colspan="2">المجموع</td>
+            <td colspan="2" class="text-center">@Model.FirstOrDefault().disposals.Sum(e => e.Amount)</td>
+        </tr>
+    }
+
+</table>
+
+            @{
+                var Dif = Model.FirstOrDefault().expenses.Sum(e => e.ExpensesValue) - Model.FirstOrDefault().disposals.Sum(e => e.Amount);
+            }
+<h4 class="text-danger"> الباقي : @Dif</h4>    
+      

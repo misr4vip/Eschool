@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CD9F4BC1-6D1D-4165-A091-AE0970D02ED5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ESchool/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="ESchool/Views/Home/Index.cshtml" Line="25" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ESchool PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

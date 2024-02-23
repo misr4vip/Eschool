@@ -1,0 +1,58 @@
+﻿@model ESchool.Models.MemberClassYear
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>MemberClassYear</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MemberId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MemberId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.marhalaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.marhalaId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SaufId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SaufId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ClassId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClassId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsCurrent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsCurrent)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "UploadStudentExcel";
+}
+<h4>اضافة بيانات الطلاب من برنامج نور </h4>
+<hr />
+@using (Html.BeginForm("UploadStudentExcel", "ExcelFiles", FormMethod.Post, new { enctype = "multipart/form-data", onsubmit = "return myFunction()" }))
+{
+<div class="form-horizontal">
+
+    <div class="form-group">
+        @Html.Label("المرحلة", htmlAttributes: new { @class = "control-label col-md-2 " })
+        <div class="col-md-10">
+
+            @Html.DropDownList("marhalaId", null, htmlAttributes: new { @class = "form-control " })
+            @Html.ValidationMessage("", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group mb-2">
+        @Html.Label("الصف", htmlAttributes: new { @class = "control-label col-md-2 d-none", id = "lblSauf" })
+        <div class="col-md-10">
+            <select id="SaufId" name="SaufId" class="d-none form-control">
+            </select>
+            @Html.ValidationMessage("", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group mb-2">
+        @Html.Label("الفصل", htmlAttributes: new { @class = "control-label col-md-2 d-none", id = "lblClass" })
+        <div class="col-md-10">
+            <select id="ClassId" name="ClassId" class="d-none form-control">
+            </select>
+
+            @Html.ValidationMessage("", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group mb-2">
+        <label for="FileUpload" class="control-label col-md-2">ارفاق الملف:</label>
+        <div class="col-md-10">
+            <input type="file" id="FileUpload" name="FileUpload" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group mb-2">
+        <label for="SheetCount" class="control-label col-md-2">عدد أوراق العمل</label>
+        <div class="col-md-10">
+            <input type="number" id="SheetCount" name="SheetCount" value="@ViewBag.SheetCount" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group mb-2">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="رفع" id="btnSubmit" class="btn btn-primary" />
+        </div>
+    </div>
+</div>
+}
+

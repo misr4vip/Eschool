@@ -1,0 +1,52 @@
+﻿
+
+<ul class="nav Menu  flex-column flex-nowrap overflow-hidden  pt-2 ">
+    <li class="nav-item">
+
+        @Html.ActionLink("الرئيسية ", "Index", "Home", new { area = "" }, new { @class = "dropdown-item  " })
+    </li>
+    <li class="nav-item">
+            <i class="fa fa-fw fa-clock-o"></i>
+            @Html.ActionLink("الإعدادات ", "index", "Settings", new { area = "" }, new { @class = "dropdown-item " })
+        </li>
+        <li class="nav-item">
+            <i class="fa fa-fw fa-clock-o"></i>
+            @Html.ActionLink("المراحل ", "index", "marhala", new { area = "" }, new { @class = "dropdown-item " })
+        </li>
+        <li class="nav-item">
+            <i class="fa fa-fw fa-clock-o"></i>
+            @Html.ActionLink("الصفوف ", "index", "saufs", new { area = "" }, new { @class = "dropdown-item " })
+        </li>
+        <li class="nav-item">
+            <i class="fa fa-fw fa-clock-o"></i>
+            @Html.ActionLink("الفصول ", "index", "ClassRooms", new { area = "" }, new { @class = "dropdown-item " })
+        </li>
+    <li class="nav-item">
+            <i class="fa fa-fw fa-clock-o"></i>
+            @Html.ActionLink("إدارة الجنسيات  ", "index", "Nationalities", new { area = "" }, new { @class = "dropdown-item " })
+        </li>
+
+    <li class="nav-item">
+        <i class="fa fa-fw fa-clock-o"></i>
+        @Html.ActionLink("إدارة الطلاب ", "index", "Account", new { area = "" }, new { @class = "dropdown-item " })
+    </li>
+    <li class="nav-item">
+        <i class="fa fa-fw fa-clock-o"></i>
+        @Html.ActionLink("الطلاب الموقوفين ", "AllStopsStudent", "Account", new { area = "" }, new { @class = "dropdown-item " })
+    </li>
+
+    
+    <li class="nav-item">
+        <i class="fa fa-fw fa-clock-o"></i>
+        @Html.ActionLink("عرض سندات قبض ", "index", "DisposalDocuments", new { area = "" }, new { @class = "dropdown-item " })
+    </li>
+    <li class="nav-item">
+        <i class="fa fa-fw fa-clock-o"></i>
+        @Html.ActionLink("المديونيات ", "index", "MemberExpenses", new { area = "" }, new { @class = "dropdown-item " })
+    </li>
+</ul>
+     
+
+
+
+

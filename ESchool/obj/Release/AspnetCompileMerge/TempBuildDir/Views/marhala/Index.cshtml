@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ESchool.Models.marhala>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<p>
+    @Html.ActionLink("اضافة مرحلة", "Create",null,new {@class = "btn btn-mainColor" })
+</p>
+<table class="table table-bordered">
+    <tr class="bg-mainColor text-center text-white">
+        <th>
+            الرقم الكودي 
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>الإجراءات</th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td>
+        @Html.ActionLink("تعديل", "Edit", new { id = item.Id }, new { @class = "btn btn-mainColor" }) |
+        @Html.ActionLink("حذف", "Delete", new { id = item.Id }, new { @class = "btn btn-mainColor" })
+    </td>
+</tr>
+}
+
+</table>

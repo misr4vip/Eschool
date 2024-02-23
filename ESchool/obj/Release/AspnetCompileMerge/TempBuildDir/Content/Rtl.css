@@ -1,0 +1,114 @@
+﻿@font-face {
+    font-family: Font1;
+    src: url(font/TanseekModernProArabic3.ttf)
+}
+
+@font-face {
+    font-family: Font2;
+    src: url(font/GE_SS_Two_Bold.otf)
+}
+
+@font-face {
+    font-family: Font3;
+    src: url(font/Questv1-Regular.otf)
+}
+#map {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px
+}
+.mr-auto, .mx-auto {
+    margin-left: auto !important;
+    margin-right: unset !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+body {
+    font-family: Font3 !important;
+}
+.navbar-brand {
+    color: #fff !important;
+}
+
+
+.text-white2 a.nav-link {
+    color: #fff !important;
+}
+
+.text-white2:hover a.nav-link:hover {
+    color: #0078d7 !important;
+}
+ul.nav-item {
+    color: #fff !important;
+    background-color: #0032d7;
+}
+
+.dropdown-item {
+    color: #fff !important;
+    border-bottom:1px solid #c7c6d7;
+}
+    .dropdown-item:hover {
+        color: #ffd800 !important;
+        background-color: #fff;
+    }
+ul.nav-item:hover {
+    background-color: #fff;
+}
+/*.fixed-top {
+    position: fixed;
+    margin-top: 60px;
+    top: 0;
+    right: 0;
+    z-index: 1030;
+}*/
+
+footer span a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
+
+    footer p a:hover {
+        color: #ffd800 !important;
+        text-decoration: none;
+    }
+
+.custom-2 {
+    max-width: 13.66666%;
+}
+
+.custom-10 {
+    max-width: 86.33333%;
+    min-width:80%
+}
+
+.min-vh-80 {
+    min-height: 82vh !important;
+}
+
+.Menu {
+   /* border: solid 1px black;
+    border-radius: 3px;*/
+    background-color: #09296b;
+}
+
+.bg-mainColor {
+    background-color: #09296b!important;
+}
+.text-mainColor {
+    color: #09296b !important;
+}
+
+.btn-mainColor {
+    color: #fff;
+    background-color: #09296b;
+    border-color: #09296b;
+}
+

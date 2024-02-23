@@ -1,0 +1,1328 @@
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/ESchool.dll.config
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/ESchool.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/ESchool.pdb
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/csc.exe
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/csc.exe.config
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/csc.rsp
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/csi.exe
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/csi.rsp
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/System.AppContext.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/vbc.exe
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/vbc.exe.config
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/vbc.rsp
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Antlr3.Runtime.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/EntityFramework.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/EntityFramework.SqlServer.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Newtonsoft.Json.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Owin.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.Helpers.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.Mvc.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.Optimization.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.Razor.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.WebPages.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.WebPages.Razor.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/WebGrease.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.Helpers.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.Mvc.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.Optimization.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.Razor.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.WebPages.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/System.Web.WebPages.Razor.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Newtonsoft.Json.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Antlr3.Runtime.pdb
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/EntityFramework.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/EntityFramework.SqlServer.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/obj/Debug/ESchool.csprojAssemblyReference.cache
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/obj/Debug/ESchool.csproj.CoreCompileInputs.cache
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/obj/Debug/ESchool.csproj.CopyComplete
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/obj/Debug/ESchool.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/obj/Debug/ESchool.pdb
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/obj/Debug/ESchool.Migrations.InitialCreate.resources
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/obj/Debug/ESchool.csproj.GenerateResource.cache
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/BouncyCastle.Crypto.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itextsharp.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itextsharp.xmlworker.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itextsharp.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Rotativa.Core.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Rotativa.MVC.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/QRCoder.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Common.Logging.Core.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Common.Logging.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.barcodes.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.forms.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.io.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.kernel.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.layout.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.pdfa.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.sign.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.styledxmlparser.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.svg.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/zxing.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/zxing.presentation.dll
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/BouncyCastle.Crypto.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Common.Logging.pdb
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Common.Logging.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Common.Logging.Core.pdb
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/Common.Logging.Core.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.barcodes.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.forms.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.io.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.kernel.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.layout.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.pdfa.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.sign.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.styledxmlparser.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/itext.svg.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/zxing.xml
+C:/Users/Mahmoud/source/repos/ESchool/ESchool/bin/zxing.presentation.xml
+/Volumes/TOSHIBA/ESchool/ESchool/obj/Debug/ESchool.csproj.AssemblyReference.cache
+/Volumes/TOSHIBA/ESchool/ESchool/obj/Debug/ESchool.Migrations.InitialCreate.resources
+/Volumes/TOSHIBA/ESchool/ESchool/obj/Debug/ESchool.csproj.GenerateResource.cache
+/Volumes/TOSHIBA/ESchool/ESchool/obj/Debug/ESchool.csproj.CoreCompileInputs.cache
+/Volumes/TOSHIBA/ESchool/ESchool/obj/Debug/ESchool.dll
+/Volumes/TOSHIBA/ESchool/ESchool/obj/Debug/ESchool.pdb
+H:/ESchool/ESchool/bin/ESchool.dll.config
+H:/ESchool/ESchool/bin/ESchool.dll
+H:/ESchool/ESchool/bin/ESchool.pdb
+H:/ESchool/ESchool/bin/roslyn/csc.exe
+H:/ESchool/ESchool/bin/roslyn/csc.exe.config
+H:/ESchool/ESchool/bin/roslyn/csc.rsp
+H:/ESchool/ESchool/bin/roslyn/csi.exe
+H:/ESchool/ESchool/bin/roslyn/csi.rsp
+H:/ESchool/ESchool/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+H:/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+H:/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.dll
+H:/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+H:/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+H:/ESchool/ESchool/bin/roslyn/Microsoft.CSharp.Core.targets
+H:/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+H:/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+H:/ESchool/ESchool/bin/roslyn/Microsoft.VisualBasic.Core.targets
+H:/ESchool/ESchool/bin/roslyn/System.AppContext.dll
+H:/ESchool/ESchool/bin/roslyn/System.Collections.Immutable.dll
+H:/ESchool/ESchool/bin/roslyn/System.Diagnostics.StackTrace.dll
+H:/ESchool/ESchool/bin/roslyn/System.IO.FileSystem.dll
+H:/ESchool/ESchool/bin/roslyn/System.IO.FileSystem.Primitives.dll
+H:/ESchool/ESchool/bin/roslyn/System.Reflection.Metadata.dll
+H:/ESchool/ESchool/bin/roslyn/vbc.exe
+H:/ESchool/ESchool/bin/roslyn/vbc.exe.config
+H:/ESchool/ESchool/bin/roslyn/vbc.rsp
+H:/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe
+H:/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe.config
+H:/ESchool/ESchool/bin/Antlr3.Runtime.dll
+H:/ESchool/ESchool/bin/BouncyCastle.Crypto.dll
+H:/ESchool/ESchool/bin/Common.Logging.Core.dll
+H:/ESchool/ESchool/bin/Common.Logging.dll
+H:/ESchool/ESchool/bin/EntityFramework.dll
+H:/ESchool/ESchool/bin/EntityFramework.SqlServer.dll
+H:/ESchool/ESchool/bin/itext.barcodes.dll
+H:/ESchool/ESchool/bin/itext.forms.dll
+H:/ESchool/ESchool/bin/itext.io.dll
+H:/ESchool/ESchool/bin/itext.kernel.dll
+H:/ESchool/ESchool/bin/itext.layout.dll
+H:/ESchool/ESchool/bin/itext.pdfa.dll
+H:/ESchool/ESchool/bin/itext.sign.dll
+H:/ESchool/ESchool/bin/itext.styledxmlparser.dll
+H:/ESchool/ESchool/bin/itext.svg.dll
+H:/ESchool/ESchool/bin/itextsharp.dll
+H:/ESchool/ESchool/bin/itextsharp.xmlworker.dll
+H:/ESchool/ESchool/bin/LinqToExcel.dll
+H:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.dll
+H:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+H:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.dll
+H:/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:/ESchool/ESchool/bin/Microsoft.Owin.dll
+H:/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.dll
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.dll
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.dll
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.dll
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.dll
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.dll
+H:/ESchool/ESchool/bin/Microsoft.Web.Infrastructure.dll
+H:/ESchool/ESchool/bin/Newtonsoft.Json.dll
+H:/ESchool/ESchool/bin/Owin.dll
+H:/ESchool/ESchool/bin/QRCoder.dll
+H:/ESchool/ESchool/bin/Remotion.Data.Linq.dll
+H:/ESchool/ESchool/bin/Remotion.dll
+H:/ESchool/ESchool/bin/Remotion.Interfaces.dll
+H:/ESchool/ESchool/bin/Rotativa.Core.dll
+H:/ESchool/ESchool/bin/Rotativa.MVC.dll
+H:/ESchool/ESchool/bin/System.Web.Helpers.dll
+H:/ESchool/ESchool/bin/System.Web.Mvc.dll
+H:/ESchool/ESchool/bin/System.Web.Optimization.dll
+H:/ESchool/ESchool/bin/System.Web.Razor.dll
+H:/ESchool/ESchool/bin/System.Web.WebPages.Deployment.dll
+H:/ESchool/ESchool/bin/System.Web.WebPages.dll
+H:/ESchool/ESchool/bin/System.Web.WebPages.Razor.dll
+H:/ESchool/ESchool/bin/WebGrease.dll
+H:/ESchool/ESchool/bin/zxing.dll
+H:/ESchool/ESchool/bin/zxing.presentation.dll
+H:/ESchool/ESchool/bin/BouncyCastle.Crypto.xml
+H:/ESchool/ESchool/bin/Common.Logging.pdb
+H:/ESchool/ESchool/bin/Common.Logging.xml
+H:/ESchool/ESchool/bin/Common.Logging.Core.pdb
+H:/ESchool/ESchool/bin/Common.Logging.Core.xml
+H:/ESchool/ESchool/bin/EntityFramework.xml
+H:/ESchool/ESchool/bin/EntityFramework.SqlServer.xml
+H:/ESchool/ESchool/bin/itext.barcodes.xml
+H:/ESchool/ESchool/bin/itext.forms.xml
+H:/ESchool/ESchool/bin/itext.io.xml
+H:/ESchool/ESchool/bin/itext.kernel.xml
+H:/ESchool/ESchool/bin/itext.layout.xml
+H:/ESchool/ESchool/bin/itext.pdfa.xml
+H:/ESchool/ESchool/bin/itext.sign.xml
+H:/ESchool/ESchool/bin/itext.styledxmlparser.xml
+H:/ESchool/ESchool/bin/itext.svg.xml
+H:/ESchool/ESchool/bin/itextsharp.xml
+H:/ESchool/ESchool/bin/LinqToExcel.xml
+H:/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:/ESchool/ESchool/bin/Microsoft.Owin.xml
+H:/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.xml
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.xml
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.xml
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.xml
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.xml
+H:/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.xml
+H:/ESchool/ESchool/bin/Newtonsoft.Json.xml
+H:/ESchool/ESchool/bin/System.Web.Helpers.xml
+H:/ESchool/ESchool/bin/System.Web.Mvc.xml
+H:/ESchool/ESchool/bin/System.Web.Optimization.xml
+H:/ESchool/ESchool/bin/System.Web.Razor.xml
+H:/ESchool/ESchool/bin/System.Web.WebPages.xml
+H:/ESchool/ESchool/bin/System.Web.WebPages.Deployment.xml
+H:/ESchool/ESchool/bin/System.Web.WebPages.Razor.xml
+H:/ESchool/ESchool/bin/Antlr3.Runtime.pdb
+H:/ESchool/ESchool/bin/zxing.xml
+H:/ESchool/ESchool/bin/zxing.presentation.xml
+H:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.xml
+H:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.xml
+H:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+H:/ESchool/ESchool/obj/Debug/ESchool.Migrations.InitialCreate.resources
+H:/ESchool/ESchool/obj/Debug/ESchool.csproj.GenerateResource.cache
+H:/ESchool/ESchool/obj/Debug/ESchool.csproj.CoreCompileInputs.cache
+H:/ESchool/ESchool/obj/Debug/ESchool.csproj.CopyComplete
+H:/ESchool/ESchool/obj/Debug/ESchool.dll
+H:/ESchool/ESchool/obj/Debug/ESchool.pdb
+H:/ESchool/ESchool/obj/Debug/ESchool.csprojAssemblyReference.cache
+E:/ESchool/ESchool/bin/ESchool.dll.config
+E:/ESchool/ESchool/bin/ESchool.dll
+E:/ESchool/ESchool/bin/ESchool.pdb
+E:/ESchool/ESchool/bin/roslyn/csc.exe
+E:/ESchool/ESchool/bin/roslyn/csc.exe.config
+E:/ESchool/ESchool/bin/roslyn/csc.rsp
+E:/ESchool/ESchool/bin/roslyn/csi.exe
+E:/ESchool/ESchool/bin/roslyn/csi.rsp
+E:/ESchool/ESchool/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+E:/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+E:/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.dll
+E:/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+E:/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+E:/ESchool/ESchool/bin/roslyn/Microsoft.CSharp.Core.targets
+E:/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+E:/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+E:/ESchool/ESchool/bin/roslyn/Microsoft.VisualBasic.Core.targets
+E:/ESchool/ESchool/bin/roslyn/System.AppContext.dll
+E:/ESchool/ESchool/bin/roslyn/System.Collections.Immutable.dll
+E:/ESchool/ESchool/bin/roslyn/System.Diagnostics.StackTrace.dll
+E:/ESchool/ESchool/bin/roslyn/System.IO.FileSystem.dll
+E:/ESchool/ESchool/bin/roslyn/System.IO.FileSystem.Primitives.dll
+E:/ESchool/ESchool/bin/roslyn/System.Reflection.Metadata.dll
+E:/ESchool/ESchool/bin/roslyn/vbc.exe
+E:/ESchool/ESchool/bin/roslyn/vbc.exe.config
+E:/ESchool/ESchool/bin/roslyn/vbc.rsp
+E:/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe
+E:/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe.config
+E:/ESchool/ESchool/bin/Antlr3.Runtime.dll
+E:/ESchool/ESchool/bin/BouncyCastle.Crypto.dll
+E:/ESchool/ESchool/bin/Common.Logging.Core.dll
+E:/ESchool/ESchool/bin/Common.Logging.dll
+E:/ESchool/ESchool/bin/EntityFramework.dll
+E:/ESchool/ESchool/bin/EntityFramework.SqlServer.dll
+E:/ESchool/ESchool/bin/itext.barcodes.dll
+E:/ESchool/ESchool/bin/itext.forms.dll
+E:/ESchool/ESchool/bin/itext.io.dll
+E:/ESchool/ESchool/bin/itext.kernel.dll
+E:/ESchool/ESchool/bin/itext.layout.dll
+E:/ESchool/ESchool/bin/itext.pdfa.dll
+E:/ESchool/ESchool/bin/itext.sign.dll
+E:/ESchool/ESchool/bin/itext.styledxmlparser.dll
+E:/ESchool/ESchool/bin/itext.svg.dll
+E:/ESchool/ESchool/bin/itextsharp.dll
+E:/ESchool/ESchool/bin/itextsharp.xmlworker.dll
+E:/ESchool/ESchool/bin/LinqToExcel.dll
+E:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.dll
+E:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+E:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.dll
+E:/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:/ESchool/ESchool/bin/Microsoft.Owin.dll
+E:/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.dll
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.dll
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.dll
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.dll
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.dll
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.dll
+E:/ESchool/ESchool/bin/Microsoft.Web.Infrastructure.dll
+E:/ESchool/ESchool/bin/Newtonsoft.Json.dll
+E:/ESchool/ESchool/bin/Owin.dll
+E:/ESchool/ESchool/bin/QRCoder.dll
+E:/ESchool/ESchool/bin/Remotion.Data.Linq.dll
+E:/ESchool/ESchool/bin/Remotion.dll
+E:/ESchool/ESchool/bin/Remotion.Interfaces.dll
+E:/ESchool/ESchool/bin/Rotativa.Core.dll
+E:/ESchool/ESchool/bin/Rotativa.MVC.dll
+E:/ESchool/ESchool/bin/System.Web.Helpers.dll
+E:/ESchool/ESchool/bin/System.Web.Mvc.dll
+E:/ESchool/ESchool/bin/System.Web.Optimization.dll
+E:/ESchool/ESchool/bin/System.Web.Razor.dll
+E:/ESchool/ESchool/bin/System.Web.WebPages.Deployment.dll
+E:/ESchool/ESchool/bin/System.Web.WebPages.dll
+E:/ESchool/ESchool/bin/System.Web.WebPages.Razor.dll
+E:/ESchool/ESchool/bin/WebGrease.dll
+E:/ESchool/ESchool/bin/zxing.dll
+E:/ESchool/ESchool/bin/zxing.presentation.dll
+E:/ESchool/ESchool/bin/BouncyCastle.Crypto.xml
+E:/ESchool/ESchool/bin/Common.Logging.pdb
+E:/ESchool/ESchool/bin/Common.Logging.xml
+E:/ESchool/ESchool/bin/Common.Logging.Core.pdb
+E:/ESchool/ESchool/bin/Common.Logging.Core.xml
+E:/ESchool/ESchool/bin/EntityFramework.xml
+E:/ESchool/ESchool/bin/EntityFramework.SqlServer.xml
+E:/ESchool/ESchool/bin/itext.barcodes.xml
+E:/ESchool/ESchool/bin/itext.forms.xml
+E:/ESchool/ESchool/bin/itext.io.xml
+E:/ESchool/ESchool/bin/itext.kernel.xml
+E:/ESchool/ESchool/bin/itext.layout.xml
+E:/ESchool/ESchool/bin/itext.pdfa.xml
+E:/ESchool/ESchool/bin/itext.sign.xml
+E:/ESchool/ESchool/bin/itext.styledxmlparser.xml
+E:/ESchool/ESchool/bin/itext.svg.xml
+E:/ESchool/ESchool/bin/itextsharp.xml
+E:/ESchool/ESchool/bin/LinqToExcel.xml
+E:/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:/ESchool/ESchool/bin/Microsoft.Owin.xml
+E:/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.xml
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.xml
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.xml
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.xml
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.xml
+E:/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.xml
+E:/ESchool/ESchool/bin/Newtonsoft.Json.xml
+E:/ESchool/ESchool/bin/System.Web.Helpers.xml
+E:/ESchool/ESchool/bin/System.Web.Mvc.xml
+E:/ESchool/ESchool/bin/System.Web.Optimization.xml
+E:/ESchool/ESchool/bin/System.Web.Razor.xml
+E:/ESchool/ESchool/bin/System.Web.WebPages.xml
+E:/ESchool/ESchool/bin/System.Web.WebPages.Deployment.xml
+E:/ESchool/ESchool/bin/System.Web.WebPages.Razor.xml
+E:/ESchool/ESchool/bin/Antlr3.Runtime.pdb
+E:/ESchool/ESchool/bin/zxing.xml
+E:/ESchool/ESchool/bin/zxing.presentation.xml
+E:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.xml
+E:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.xml
+E:/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+E:/ESchool/ESchool/obj/Debug/ESchool.Migrations.InitialCreate.resources
+E:/ESchool/ESchool/obj/Debug/ESchool.csproj.GenerateResource.cache
+E:/ESchool/ESchool/obj/Debug/ESchool.csproj.CoreCompileInputs.cache
+E:/ESchool/ESchool/obj/Debug/ESchool.csproj.CopyComplete
+E:/ESchool/ESchool/obj/Debug/ESchool.dll
+E:/ESchool/ESchool/obj/Debug/ESchool.pdb
+E:/ESchool/ESchool/obj/Debug/ESchool.csproj.AssemblyReference.cache
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/ESchool.dll.config
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/ESchool.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/ESchool.pdb
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/csc.exe
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/csc.exe.config
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/csc.rsp
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/csi.exe
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/csi.exe.config
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/csi.rsp
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/System.Buffers.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/System.Memory.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/System.Numerics.Vectors.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/vbc.exe
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/vbc.exe.config
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/vbc.rsp
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Antlr3.Runtime.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/BouncyCastle.Crypto.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Common.Logging.Core.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Common.Logging.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/CrystalDecisions.CrystalReports.Engine.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/CrystalDecisions.ReportSource.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/CrystalDecisions.Shared.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/EntityFramework.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/EntityFramework.SqlServer.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.barcodes.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.forms.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.io.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.kernel.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.layout.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.pdfa.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.sign.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.styledxmlparser.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.svg.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itextsharp.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itextsharp.xmlworker.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/LinqToExcel.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Newtonsoft.Json.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Owin.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/QRCoder.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Remotion.Data.Linq.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Remotion.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Remotion.Interfaces.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Rotativa.Core.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Rotativa.MVC.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.Compression.Base.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.DocIO.Base.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.EJ.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.EJ.Export.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.EJ.MVC.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.Licensing.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.Linq.Base.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.OfficeChart.Base.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.Pdf.Base.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.Presentation.Base.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.XlsIO.Base.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.Helpers.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.Mvc.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.Optimization.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.Razor.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.WebPages.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.WebPages.Razor.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/WebGrease.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/zxing.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/zxing.presentation.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Antlr3.Runtime.pdb
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/BouncyCastle.Crypto.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Common.Logging.pdb
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Common.Logging.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Common.Logging.Core.pdb
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Common.Logging.Core.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/EntityFramework.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/EntityFramework.SqlServer.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.barcodes.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.forms.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.io.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.kernel.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.layout.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.pdfa.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.sign.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.styledxmlparser.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itext.svg.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/itextsharp.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/LinqToExcel.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Newtonsoft.Json.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.Compression.Base.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.DocIO.Base.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.EJ.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.EJ.Export.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.Licensing.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.Linq.Base.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.OfficeChart.Base.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.Pdf.Base.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.Presentation.Base.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/Syncfusion.XlsIO.Base.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.Helpers.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.Mvc.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.Optimization.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.Razor.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.WebPages.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/System.Web.WebPages.Razor.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/zxing.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/bin/zxing.presentation.xml
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/obj/Debug/ESchool.Migrations.InitialCreate.resources
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/obj/Debug/ESchool.csproj.GenerateResource.cache
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/obj/Debug/ESchool.csproj.CoreCompileInputs.cache
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/obj/Debug/ESchool.csproj.CopyComplete
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/obj/Debug/ESchool.dll
+C:/Users/Mahmoud/Desktop/ESchool/ESchool/obj/Debug/ESchool.pdb
+K:/backup/ESchool/ESchool/bin/ESchool.dll.config
+K:/backup/ESchool/ESchool/bin/ESchool.dll
+K:/backup/ESchool/ESchool/bin/ESchool.pdb
+K:/backup/ESchool/ESchool/bin/roslyn/csc.exe
+K:/backup/ESchool/ESchool/bin/roslyn/csc.exe.config
+K:/backup/ESchool/ESchool/bin/roslyn/csc.rsp
+K:/backup/ESchool/ESchool/bin/roslyn/csi.exe
+K:/backup/ESchool/ESchool/bin/roslyn/csi.exe.config
+K:/backup/ESchool/ESchool/bin/roslyn/csi.rsp
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.dll
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CSharp.Core.targets
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.Managed.Core.targets
+K:/backup/ESchool/ESchool/bin/roslyn/Microsoft.VisualBasic.Core.targets
+K:/backup/ESchool/ESchool/bin/roslyn/System.Buffers.dll
+K:/backup/ESchool/ESchool/bin/roslyn/System.Collections.Immutable.dll
+K:/backup/ESchool/ESchool/bin/roslyn/System.Memory.dll
+K:/backup/ESchool/ESchool/bin/roslyn/System.Numerics.Vectors.dll
+K:/backup/ESchool/ESchool/bin/roslyn/System.Reflection.Metadata.dll
+K:/backup/ESchool/ESchool/bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll
+K:/backup/ESchool/ESchool/bin/roslyn/System.Text.Encoding.CodePages.dll
+K:/backup/ESchool/ESchool/bin/roslyn/System.Threading.Tasks.Extensions.dll
+K:/backup/ESchool/ESchool/bin/roslyn/vbc.exe
+K:/backup/ESchool/ESchool/bin/roslyn/vbc.exe.config
+K:/backup/ESchool/ESchool/bin/roslyn/vbc.rsp
+K:/backup/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe
+K:/backup/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe.config
+K:/backup/ESchool/ESchool/bin/Antlr3.Runtime.dll
+K:/backup/ESchool/ESchool/bin/BouncyCastle.Crypto.dll
+K:/backup/ESchool/ESchool/bin/Common.Logging.Core.dll
+K:/backup/ESchool/ESchool/bin/Common.Logging.dll
+K:/backup/ESchool/ESchool/bin/CrystalDecisions.CrystalReports.Engine.dll
+K:/backup/ESchool/ESchool/bin/CrystalDecisions.ReportAppServer.DataSetConversion.dll
+K:/backup/ESchool/ESchool/bin/CrystalDecisions.ReportSource.dll
+K:/backup/ESchool/ESchool/bin/CrystalDecisions.Shared.dll
+K:/backup/ESchool/ESchool/bin/EntityFramework.dll
+K:/backup/ESchool/ESchool/bin/EntityFramework.SqlServer.dll
+K:/backup/ESchool/ESchool/bin/itext.barcodes.dll
+K:/backup/ESchool/ESchool/bin/itext.forms.dll
+K:/backup/ESchool/ESchool/bin/itext.io.dll
+K:/backup/ESchool/ESchool/bin/itext.kernel.dll
+K:/backup/ESchool/ESchool/bin/itext.layout.dll
+K:/backup/ESchool/ESchool/bin/itext.pdfa.dll
+K:/backup/ESchool/ESchool/bin/itext.sign.dll
+K:/backup/ESchool/ESchool/bin/itext.styledxmlparser.dll
+K:/backup/ESchool/ESchool/bin/itext.svg.dll
+K:/backup/ESchool/ESchool/bin/itextsharp.dll
+K:/backup/ESchool/ESchool/bin/itextsharp.xmlworker.dll
+K:/backup/ESchool/ESchool/bin/LinqToExcel.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.dll
+K:/backup/ESchool/ESchool/bin/Microsoft.Web.Infrastructure.dll
+K:/backup/ESchool/ESchool/bin/Newtonsoft.Json.dll
+K:/backup/ESchool/ESchool/bin/Owin.dll
+K:/backup/ESchool/ESchool/bin/QRCoder.dll
+K:/backup/ESchool/ESchool/bin/Remotion.Data.Linq.dll
+K:/backup/ESchool/ESchool/bin/Remotion.dll
+K:/backup/ESchool/ESchool/bin/Remotion.Interfaces.dll
+K:/backup/ESchool/ESchool/bin/Rotativa.Core.dll
+K:/backup/ESchool/ESchool/bin/Rotativa.MVC.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.Compression.Base.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.DocIO.Base.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.EJ.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.EJ.Export.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.EJ.MVC.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.Licensing.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.Linq.Base.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.OfficeChart.Base.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.Pdf.Base.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.Presentation.Base.dll
+K:/backup/ESchool/ESchool/bin/Syncfusion.XlsIO.Base.dll
+K:/backup/ESchool/ESchool/bin/System.Web.Helpers.dll
+K:/backup/ESchool/ESchool/bin/System.Web.Mvc.dll
+K:/backup/ESchool/ESchool/bin/System.Web.Optimization.dll
+K:/backup/ESchool/ESchool/bin/System.Web.Razor.dll
+K:/backup/ESchool/ESchool/bin/System.Web.WebPages.Deployment.dll
+K:/backup/ESchool/ESchool/bin/System.Web.WebPages.dll
+K:/backup/ESchool/ESchool/bin/System.Web.WebPages.Razor.dll
+K:/backup/ESchool/ESchool/bin/WebGrease.dll
+K:/backup/ESchool/ESchool/bin/zxing.dll
+K:/backup/ESchool/ESchool/bin/zxing.presentation.dll
+K:/backup/ESchool/ESchool/bin/Antlr3.Runtime.pdb
+K:/backup/ESchool/ESchool/bin/BouncyCastle.Crypto.xml
+K:/backup/ESchool/ESchool/bin/Common.Logging.pdb
+K:/backup/ESchool/ESchool/bin/Common.Logging.xml
+K:/backup/ESchool/ESchool/bin/Common.Logging.Core.pdb
+K:/backup/ESchool/ESchool/bin/Common.Logging.Core.xml
+K:/backup/ESchool/ESchool/bin/EntityFramework.xml
+K:/backup/ESchool/ESchool/bin/EntityFramework.SqlServer.xml
+K:/backup/ESchool/ESchool/bin/itext.barcodes.xml
+K:/backup/ESchool/ESchool/bin/itext.forms.xml
+K:/backup/ESchool/ESchool/bin/itext.io.xml
+K:/backup/ESchool/ESchool/bin/itext.kernel.xml
+K:/backup/ESchool/ESchool/bin/itext.layout.xml
+K:/backup/ESchool/ESchool/bin/itext.pdfa.xml
+K:/backup/ESchool/ESchool/bin/itext.sign.xml
+K:/backup/ESchool/ESchool/bin/itext.styledxmlparser.xml
+K:/backup/ESchool/ESchool/bin/itext.svg.xml
+K:/backup/ESchool/ESchool/bin/itextsharp.xml
+K:/backup/ESchool/ESchool/bin/LinqToExcel.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.xml
+K:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.xml
+K:/backup/ESchool/ESchool/bin/Newtonsoft.Json.xml
+K:/backup/ESchool/ESchool/bin/Syncfusion.Compression.Base.xml
+K:/backup/ESchool/ESchool/bin/Syncfusion.DocIO.Base.xml
+K:/backup/ESchool/ESchool/bin/Syncfusion.EJ.xml
+K:/backup/ESchool/ESchool/bin/Syncfusion.EJ.Export.xml
+K:/backup/ESchool/ESchool/bin/Syncfusion.Licensing.xml
+K:/backup/ESchool/ESchool/bin/Syncfusion.Linq.Base.xml
+K:/backup/ESchool/ESchool/bin/Syncfusion.OfficeChart.Base.xml
+K:/backup/ESchool/ESchool/bin/Syncfusion.Pdf.Base.xml
+K:/backup/ESchool/ESchool/bin/Syncfusion.Presentation.Base.xml
+K:/backup/ESchool/ESchool/bin/Syncfusion.XlsIO.Base.xml
+K:/backup/ESchool/ESchool/bin/System.Web.Helpers.xml
+K:/backup/ESchool/ESchool/bin/System.Web.Mvc.xml
+K:/backup/ESchool/ESchool/bin/System.Web.Optimization.xml
+K:/backup/ESchool/ESchool/bin/System.Web.Razor.xml
+K:/backup/ESchool/ESchool/bin/System.Web.WebPages.xml
+K:/backup/ESchool/ESchool/bin/System.Web.WebPages.Deployment.xml
+K:/backup/ESchool/ESchool/bin/System.Web.WebPages.Razor.xml
+K:/backup/ESchool/ESchool/bin/zxing.xml
+K:/backup/ESchool/ESchool/bin/zxing.presentation.xml
+K:/backup/ESchool/ESchool/obj/Debug/ESchool.Migrations.InitialCreate.resources
+K:/backup/ESchool/ESchool/obj/Debug/ESchool.csproj.GenerateResource.cache
+K:/backup/ESchool/ESchool/obj/Debug/ESchool.csproj.CoreCompileInputs.cache
+K:/backup/ESchool/ESchool/obj/Debug/ESchool.csproj.CopyComplete
+K:/backup/ESchool/ESchool/obj/Debug/ESchool.dll
+K:/backup/ESchool/ESchool/obj/Debug/ESchool.pdb
+K:/backup/ESchool/ESchool/obj/Debug/ESchool.csproj.AssemblyReference.cache
+I:/backup/ESchool/ESchool/bin/ESchool.dll.config
+I:/backup/ESchool/ESchool/bin/ESchool.dll
+I:/backup/ESchool/ESchool/bin/ESchool.pdb
+I:/backup/ESchool/ESchool/bin/roslyn/csc.exe
+I:/backup/ESchool/ESchool/bin/roslyn/csc.exe.config
+I:/backup/ESchool/ESchool/bin/roslyn/csc.rsp
+I:/backup/ESchool/ESchool/bin/roslyn/csi.exe
+I:/backup/ESchool/ESchool/bin/roslyn/csi.exe.config
+I:/backup/ESchool/ESchool/bin/roslyn/csi.rsp
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.dll
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.CSharp.Core.targets
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.Managed.Core.targets
+I:/backup/ESchool/ESchool/bin/roslyn/Microsoft.VisualBasic.Core.targets
+I:/backup/ESchool/ESchool/bin/roslyn/System.Buffers.dll
+I:/backup/ESchool/ESchool/bin/roslyn/System.Collections.Immutable.dll
+I:/backup/ESchool/ESchool/bin/roslyn/System.Memory.dll
+I:/backup/ESchool/ESchool/bin/roslyn/System.Numerics.Vectors.dll
+I:/backup/ESchool/ESchool/bin/roslyn/System.Reflection.Metadata.dll
+I:/backup/ESchool/ESchool/bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll
+I:/backup/ESchool/ESchool/bin/roslyn/System.Text.Encoding.CodePages.dll
+I:/backup/ESchool/ESchool/bin/roslyn/System.Threading.Tasks.Extensions.dll
+I:/backup/ESchool/ESchool/bin/roslyn/vbc.exe
+I:/backup/ESchool/ESchool/bin/roslyn/vbc.exe.config
+I:/backup/ESchool/ESchool/bin/roslyn/vbc.rsp
+I:/backup/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe
+I:/backup/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe.config
+I:/backup/ESchool/ESchool/bin/Antlr3.Runtime.dll
+I:/backup/ESchool/ESchool/bin/BouncyCastle.Crypto.dll
+I:/backup/ESchool/ESchool/bin/Common.Logging.Core.dll
+I:/backup/ESchool/ESchool/bin/Common.Logging.dll
+I:/backup/ESchool/ESchool/bin/CrystalDecisions.CrystalReports.Engine.dll
+I:/backup/ESchool/ESchool/bin/CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:/backup/ESchool/ESchool/bin/CrystalDecisions.ReportSource.dll
+I:/backup/ESchool/ESchool/bin/CrystalDecisions.Shared.dll
+I:/backup/ESchool/ESchool/bin/EntityFramework.dll
+I:/backup/ESchool/ESchool/bin/EntityFramework.SqlServer.dll
+I:/backup/ESchool/ESchool/bin/itext.barcodes.dll
+I:/backup/ESchool/ESchool/bin/itext.forms.dll
+I:/backup/ESchool/ESchool/bin/itext.io.dll
+I:/backup/ESchool/ESchool/bin/itext.kernel.dll
+I:/backup/ESchool/ESchool/bin/itext.layout.dll
+I:/backup/ESchool/ESchool/bin/itext.pdfa.dll
+I:/backup/ESchool/ESchool/bin/itext.sign.dll
+I:/backup/ESchool/ESchool/bin/itext.styledxmlparser.dll
+I:/backup/ESchool/ESchool/bin/itext.svg.dll
+I:/backup/ESchool/ESchool/bin/itextsharp.dll
+I:/backup/ESchool/ESchool/bin/itextsharp.xmlworker.dll
+I:/backup/ESchool/ESchool/bin/LinqToExcel.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.dll
+I:/backup/ESchool/ESchool/bin/Microsoft.Web.Infrastructure.dll
+I:/backup/ESchool/ESchool/bin/Newtonsoft.Json.dll
+I:/backup/ESchool/ESchool/bin/Owin.dll
+I:/backup/ESchool/ESchool/bin/QRCoder.dll
+I:/backup/ESchool/ESchool/bin/Remotion.Data.Linq.dll
+I:/backup/ESchool/ESchool/bin/Remotion.dll
+I:/backup/ESchool/ESchool/bin/Remotion.Interfaces.dll
+I:/backup/ESchool/ESchool/bin/Rotativa.Core.dll
+I:/backup/ESchool/ESchool/bin/Rotativa.MVC.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.Compression.Base.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.DocIO.Base.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.EJ.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.EJ.Export.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.EJ.MVC.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.Licensing.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.Linq.Base.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.OfficeChart.Base.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.Pdf.Base.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.Presentation.Base.dll
+I:/backup/ESchool/ESchool/bin/Syncfusion.XlsIO.Base.dll
+I:/backup/ESchool/ESchool/bin/System.Web.Helpers.dll
+I:/backup/ESchool/ESchool/bin/System.Web.Mvc.dll
+I:/backup/ESchool/ESchool/bin/System.Web.Optimization.dll
+I:/backup/ESchool/ESchool/bin/System.Web.Razor.dll
+I:/backup/ESchool/ESchool/bin/System.Web.WebPages.Deployment.dll
+I:/backup/ESchool/ESchool/bin/System.Web.WebPages.dll
+I:/backup/ESchool/ESchool/bin/System.Web.WebPages.Razor.dll
+I:/backup/ESchool/ESchool/bin/WebGrease.dll
+I:/backup/ESchool/ESchool/bin/zxing.dll
+I:/backup/ESchool/ESchool/bin/zxing.presentation.dll
+I:/backup/ESchool/ESchool/bin/Antlr3.Runtime.pdb
+I:/backup/ESchool/ESchool/bin/BouncyCastle.Crypto.xml
+I:/backup/ESchool/ESchool/bin/Common.Logging.pdb
+I:/backup/ESchool/ESchool/bin/Common.Logging.xml
+I:/backup/ESchool/ESchool/bin/Common.Logging.Core.pdb
+I:/backup/ESchool/ESchool/bin/Common.Logging.Core.xml
+I:/backup/ESchool/ESchool/bin/EntityFramework.xml
+I:/backup/ESchool/ESchool/bin/EntityFramework.SqlServer.xml
+I:/backup/ESchool/ESchool/bin/itext.barcodes.xml
+I:/backup/ESchool/ESchool/bin/itext.forms.xml
+I:/backup/ESchool/ESchool/bin/itext.io.xml
+I:/backup/ESchool/ESchool/bin/itext.kernel.xml
+I:/backup/ESchool/ESchool/bin/itext.layout.xml
+I:/backup/ESchool/ESchool/bin/itext.pdfa.xml
+I:/backup/ESchool/ESchool/bin/itext.sign.xml
+I:/backup/ESchool/ESchool/bin/itext.styledxmlparser.xml
+I:/backup/ESchool/ESchool/bin/itext.svg.xml
+I:/backup/ESchool/ESchool/bin/itextsharp.xml
+I:/backup/ESchool/ESchool/bin/LinqToExcel.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.xml
+I:/backup/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.xml
+I:/backup/ESchool/ESchool/bin/Newtonsoft.Json.xml
+I:/backup/ESchool/ESchool/bin/Syncfusion.Compression.Base.xml
+I:/backup/ESchool/ESchool/bin/Syncfusion.DocIO.Base.xml
+I:/backup/ESchool/ESchool/bin/Syncfusion.EJ.xml
+I:/backup/ESchool/ESchool/bin/Syncfusion.EJ.Export.xml
+I:/backup/ESchool/ESchool/bin/Syncfusion.Licensing.xml
+I:/backup/ESchool/ESchool/bin/Syncfusion.Linq.Base.xml
+I:/backup/ESchool/ESchool/bin/Syncfusion.OfficeChart.Base.xml
+I:/backup/ESchool/ESchool/bin/Syncfusion.Pdf.Base.xml
+I:/backup/ESchool/ESchool/bin/Syncfusion.Presentation.Base.xml
+I:/backup/ESchool/ESchool/bin/Syncfusion.XlsIO.Base.xml
+I:/backup/ESchool/ESchool/bin/System.Web.Helpers.xml
+I:/backup/ESchool/ESchool/bin/System.Web.Mvc.xml
+I:/backup/ESchool/ESchool/bin/System.Web.Optimization.xml
+I:/backup/ESchool/ESchool/bin/System.Web.Razor.xml
+I:/backup/ESchool/ESchool/bin/System.Web.WebPages.xml
+I:/backup/ESchool/ESchool/bin/System.Web.WebPages.Deployment.xml
+I:/backup/ESchool/ESchool/bin/System.Web.WebPages.Razor.xml
+I:/backup/ESchool/ESchool/bin/zxing.xml
+I:/backup/ESchool/ESchool/bin/zxing.presentation.xml
+I:/backup/ESchool/ESchool/obj/Debug/ESchool.Migrations.InitialCreate.resources
+I:/backup/ESchool/ESchool/obj/Debug/ESchool.csproj.GenerateResource.cache
+I:/backup/ESchool/ESchool/obj/Debug/ESchool.csproj.CoreCompileInputs.cache
+I:/backup/ESchool/ESchool/obj/Debug/ESchool.csproj.CopyComplete
+I:/backup/ESchool/ESchool/obj/Debug/ESchool.dll
+I:/backup/ESchool/ESchool/obj/Debug/ESchool.pdb
+I:/backup/ESchool/ESchool/obj/Debug/ESchool.csprojAssemblyReference.cache
+E:/school/ESchool/ESchool/bin/ESchool.dll.config
+E:/school/ESchool/ESchool/bin/ESchool.dll
+E:/school/ESchool/ESchool/bin/ESchool.pdb
+E:/school/ESchool/ESchool/bin/roslyn/csc.exe
+E:/school/ESchool/ESchool/bin/roslyn/csc.exe.config
+E:/school/ESchool/ESchool/bin/roslyn/csc.rsp
+E:/school/ESchool/ESchool/bin/roslyn/csi.exe
+E:/school/ESchool/ESchool/bin/roslyn/csi.exe.config
+E:/school/ESchool/ESchool/bin/roslyn/csi.rsp
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.dll
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.CSharp.Core.targets
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.Managed.Core.targets
+E:/school/ESchool/ESchool/bin/roslyn/Microsoft.VisualBasic.Core.targets
+E:/school/ESchool/ESchool/bin/roslyn/System.Buffers.dll
+E:/school/ESchool/ESchool/bin/roslyn/System.Collections.Immutable.dll
+E:/school/ESchool/ESchool/bin/roslyn/System.Memory.dll
+E:/school/ESchool/ESchool/bin/roslyn/System.Numerics.Vectors.dll
+E:/school/ESchool/ESchool/bin/roslyn/System.Reflection.Metadata.dll
+E:/school/ESchool/ESchool/bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll
+E:/school/ESchool/ESchool/bin/roslyn/System.Text.Encoding.CodePages.dll
+E:/school/ESchool/ESchool/bin/roslyn/System.Threading.Tasks.Extensions.dll
+E:/school/ESchool/ESchool/bin/roslyn/vbc.exe
+E:/school/ESchool/ESchool/bin/roslyn/vbc.exe.config
+E:/school/ESchool/ESchool/bin/roslyn/vbc.rsp
+E:/school/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe
+E:/school/ESchool/ESchool/bin/roslyn/VBCSCompiler.exe.config
+E:/school/ESchool/ESchool/bin/Antlr3.Runtime.dll
+E:/school/ESchool/ESchool/bin/BouncyCastle.Crypto.dll
+E:/school/ESchool/ESchool/bin/Common.Logging.Core.dll
+E:/school/ESchool/ESchool/bin/Common.Logging.dll
+E:/school/ESchool/ESchool/bin/CrystalDecisions.CrystalReports.Engine.dll
+E:/school/ESchool/ESchool/bin/CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:/school/ESchool/ESchool/bin/CrystalDecisions.ReportSource.dll
+E:/school/ESchool/ESchool/bin/CrystalDecisions.Shared.dll
+E:/school/ESchool/ESchool/bin/EntityFramework.dll
+E:/school/ESchool/ESchool/bin/EntityFramework.SqlServer.dll
+E:/school/ESchool/ESchool/bin/itext.barcodes.dll
+E:/school/ESchool/ESchool/bin/itext.forms.dll
+E:/school/ESchool/ESchool/bin/itext.io.dll
+E:/school/ESchool/ESchool/bin/itext.kernel.dll
+E:/school/ESchool/ESchool/bin/itext.layout.dll
+E:/school/ESchool/ESchool/bin/itext.pdfa.dll
+E:/school/ESchool/ESchool/bin/itext.sign.dll
+E:/school/ESchool/ESchool/bin/itext.styledxmlparser.dll
+E:/school/ESchool/ESchool/bin/itext.svg.dll
+E:/school/ESchool/ESchool/bin/itextsharp.dll
+E:/school/ESchool/ESchool/bin/itextsharp.xmlworker.dll
+E:/school/ESchool/ESchool/bin/LinqToExcel.dll
+E:/school/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.dll
+E:/school/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+E:/school/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.dll
+E:/school/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.dll
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.dll
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.dll
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.dll
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.dll
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.dll
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.dll
+E:/school/ESchool/ESchool/bin/Microsoft.Web.Infrastructure.dll
+E:/school/ESchool/ESchool/bin/Newtonsoft.Json.dll
+E:/school/ESchool/ESchool/bin/Owin.dll
+E:/school/ESchool/ESchool/bin/QRCoder.dll
+E:/school/ESchool/ESchool/bin/Remotion.Data.Linq.dll
+E:/school/ESchool/ESchool/bin/Remotion.dll
+E:/school/ESchool/ESchool/bin/Remotion.Interfaces.dll
+E:/school/ESchool/ESchool/bin/Rotativa.Core.dll
+E:/school/ESchool/ESchool/bin/Rotativa.MVC.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.Compression.Base.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.DocIO.Base.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.EJ.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.EJ.Export.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.EJ.MVC.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.Licensing.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.Linq.Base.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.OfficeChart.Base.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.Pdf.Base.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.Presentation.Base.dll
+E:/school/ESchool/ESchool/bin/Syncfusion.XlsIO.Base.dll
+E:/school/ESchool/ESchool/bin/System.Web.Helpers.dll
+E:/school/ESchool/ESchool/bin/System.Web.Mvc.dll
+E:/school/ESchool/ESchool/bin/System.Web.Optimization.dll
+E:/school/ESchool/ESchool/bin/System.Web.Razor.dll
+E:/school/ESchool/ESchool/bin/System.Web.WebPages.Deployment.dll
+E:/school/ESchool/ESchool/bin/System.Web.WebPages.dll
+E:/school/ESchool/ESchool/bin/System.Web.WebPages.Razor.dll
+E:/school/ESchool/ESchool/bin/WebGrease.dll
+E:/school/ESchool/ESchool/bin/zxing.dll
+E:/school/ESchool/ESchool/bin/zxing.presentation.dll
+E:/school/ESchool/ESchool/bin/Antlr3.Runtime.pdb
+E:/school/ESchool/ESchool/bin/BouncyCastle.Crypto.xml
+E:/school/ESchool/ESchool/bin/Common.Logging.pdb
+E:/school/ESchool/ESchool/bin/Common.Logging.xml
+E:/school/ESchool/ESchool/bin/Common.Logging.Core.pdb
+E:/school/ESchool/ESchool/bin/Common.Logging.Core.xml
+E:/school/ESchool/ESchool/bin/EntityFramework.xml
+E:/school/ESchool/ESchool/bin/EntityFramework.SqlServer.xml
+E:/school/ESchool/ESchool/bin/itext.barcodes.xml
+E:/school/ESchool/ESchool/bin/itext.forms.xml
+E:/school/ESchool/ESchool/bin/itext.io.xml
+E:/school/ESchool/ESchool/bin/itext.kernel.xml
+E:/school/ESchool/ESchool/bin/itext.layout.xml
+E:/school/ESchool/ESchool/bin/itext.pdfa.xml
+E:/school/ESchool/ESchool/bin/itext.sign.xml
+E:/school/ESchool/ESchool/bin/itext.styledxmlparser.xml
+E:/school/ESchool/ESchool/bin/itext.svg.xml
+E:/school/ESchool/ESchool/bin/itextsharp.xml
+E:/school/ESchool/ESchool/bin/LinqToExcel.xml
+E:/school/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Core.xml
+E:/school/ESchool/ESchool/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+E:/school/ESchool/ESchool/bin/Microsoft.AspNet.Identity.Owin.xml
+E:/school/ESchool/ESchool/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.xml
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Host.SystemWeb.xml
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.xml
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.Facebook.xml
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.Google.xml
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.OAuth.xml
+E:/school/ESchool/ESchool/bin/Microsoft.Owin.Security.Twitter.xml
+E:/school/ESchool/ESchool/bin/Newtonsoft.Json.xml
+E:/school/ESchool/ESchool/bin/Syncfusion.Compression.Base.xml
+E:/school/ESchool/ESchool/bin/Syncfusion.DocIO.Base.xml
+E:/school/ESchool/ESchool/bin/Syncfusion.EJ.xml
+E:/school/ESchool/ESchool/bin/Syncfusion.EJ.Export.xml
+E:/school/ESchool/ESchool/bin/Syncfusion.Licensing.xml
+E:/school/ESchool/ESchool/bin/Syncfusion.Linq.Base.xml
+E:/school/ESchool/ESchool/bin/Syncfusion.OfficeChart.Base.xml
+E:/school/ESchool/ESchool/bin/Syncfusion.Pdf.Base.xml
+E:/school/ESchool/ESchool/bin/Syncfusion.Presentation.Base.xml
+E:/school/ESchool/ESchool/bin/Syncfusion.XlsIO.Base.xml
+E:/school/ESchool/ESchool/bin/System.Web.Helpers.xml
+E:/school/ESchool/ESchool/bin/System.Web.Mvc.xml
+E:/school/ESchool/ESchool/bin/System.Web.Optimization.xml
+E:/school/ESchool/ESchool/bin/System.Web.Razor.xml
+E:/school/ESchool/ESchool/bin/System.Web.WebPages.xml
+E:/school/ESchool/ESchool/bin/System.Web.WebPages.Deployment.xml
+E:/school/ESchool/ESchool/bin/System.Web.WebPages.Razor.xml
+E:/school/ESchool/ESchool/bin/zxing.xml
+E:/school/ESchool/ESchool/bin/zxing.presentation.xml
+E:/school/ESchool/ESchool/obj/Debug/ESchool.Migrations.InitialCreate.resources
+E:/school/ESchool/ESchool/obj/Debug/ESchool.csproj.GenerateResource.cache
+E:/school/ESchool/ESchool/obj/Debug/ESchool.csproj.CoreCompileInputs.cache
+E:/school/ESchool/ESchool/obj/Debug/ESchool.csproj.CopyComplete
+E:/school/ESchool/ESchool/obj/Debug/ESchool.dll
+E:/school/ESchool/ESchool/obj/Debug/ESchool.pdb
+/Volumes/UUI/ESchool/ESchool/obj/Debug/ESchool.csproj.AssemblyReference.cache
+/Volumes/UUI/ESchool/ESchool/obj/Debug/ESchool.Migrations.InitialCreate.resources
+/Volumes/UUI/ESchool/ESchool/obj/Debug/ESchool.csproj.GenerateResource.cache
+/Volumes/UUI/ESchool/ESchool/obj/Debug/ESchool.csproj.CoreCompileInputs.cache
+/Volumes/UUI/ESchool/ESchool/obj/Debug/ESchool.dll
+/Volumes/UUI/ESchool/ESchool/obj/Debug/ESchool.pdb
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\DataSets\MyDataSet.xsc
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\DataSets\MyDataSet.xss
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Reports\DisposalDocumentRPT.rpt
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Controllers\ReportController.cs
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\DataSets\MyDataSet.Designer.cs
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Reports\DisposalDocumentRPT.cs
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\DataSets\MyDataSet.xsd
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\ESchool.dll.config
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\ESchool.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\ESchool.pdb
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\csc.exe
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\csc.exe.config
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\csc.rsp
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\csi.exe
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\csi.exe.config
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\csi.rsp
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\System.Buffers.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\System.Memory.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\vbc.exe
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\vbc.exe.config
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\vbc.rsp
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Antlr3.Runtime.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\BouncyCastle.Crypto.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Common.Logging.Core.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Common.Logging.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\CrystalDecisions.ReportSource.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\CrystalDecisions.Shared.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\EntityFramework.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\EntityFramework.SqlServer.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.barcodes.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.forms.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.io.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.kernel.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.layout.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.pdfa.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.sign.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.styledxmlparser.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.svg.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itextsharp.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itextsharp.xmlworker.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\LinqToExcel.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Newtonsoft.Json.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Owin.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\QRCoder.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Remotion.Data.Linq.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Remotion.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Remotion.Interfaces.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Rotativa.Core.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Rotativa.MVC.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.Compression.Base.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.DocIO.Base.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.EJ.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.EJ.Export.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.EJ.MVC.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.Licensing.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.Linq.Base.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.Pdf.Base.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.Presentation.Base.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.XlsIO.Base.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.Helpers.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.Mvc.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.Optimization.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.Razor.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\WebGrease.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\zxing.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\zxing.presentation.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Antlr3.Runtime.pdb
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\BouncyCastle.Crypto.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Common.Logging.pdb
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Common.Logging.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Common.Logging.Core.pdb
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Common.Logging.Core.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\EntityFramework.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\EntityFramework.SqlServer.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.barcodes.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.forms.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.io.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.kernel.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.layout.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.pdfa.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.sign.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.styledxmlparser.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itext.svg.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\itextsharp.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\LinqToExcel.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Newtonsoft.Json.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.Compression.Base.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.DocIO.Base.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.EJ.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.EJ.Export.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.Licensing.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.Linq.Base.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.Pdf.Base.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.Presentation.Base.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\Syncfusion.XlsIO.Base.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.Helpers.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.Mvc.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.Optimization.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.Razor.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\zxing.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\bin\zxing.presentation.xml
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\obj\Debug\ESchool.csproj.AssemblyReference.cache
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\obj\Debug\ESchool.Migrations.InitialCreate.resources
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\obj\Debug\ESchool.csproj.GenerateResource.cache
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\obj\Debug\ESchool.csproj.CoreCompileInputs.cache
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\obj\Debug\ESchool.csproj.CopyComplete
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\obj\Debug\ESchool.dll
+C:\Users\techn\OneDrive\سطح المكتب\madrasti School\ESchool\ESchool\obj\Debug\ESchool.pdb
+E:\madrasti School\ESchool\ESchool\bin\DataSets\MyDataSet.xsc
+E:\madrasti School\ESchool\ESchool\bin\DataSets\MyDataSet.xss
+E:\madrasti School\ESchool\ESchool\bin\Reports\DisposalDocumentRPT.rpt
+E:\madrasti School\ESchool\ESchool\bin\Controllers\ReportController.cs
+E:\madrasti School\ESchool\ESchool\bin\DataSets\MyDataSet.Designer.cs
+E:\madrasti School\ESchool\ESchool\bin\Reports\DisposalDocumentRPT.cs
+E:\madrasti School\ESchool\ESchool\bin\DataSets\MyDataSet.xsd
+E:\madrasti School\ESchool\ESchool\bin\ESchool.dll.config
+E:\madrasti School\ESchool\ESchool\bin\ESchool.dll
+E:\madrasti School\ESchool\ESchool\bin\ESchool.pdb
+E:\madrasti School\ESchool\ESchool\bin\roslyn\csc.exe
+E:\madrasti School\ESchool\ESchool\bin\roslyn\csc.exe.config
+E:\madrasti School\ESchool\ESchool\bin\roslyn\csc.rsp
+E:\madrasti School\ESchool\ESchool\bin\roslyn\csi.exe
+E:\madrasti School\ESchool\ESchool\bin\roslyn\csi.exe.config
+E:\madrasti School\ESchool\ESchool\bin\roslyn\csi.rsp
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.Managed.Core.targets
+E:\madrasti School\ESchool\ESchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\madrasti School\ESchool\ESchool\bin\roslyn\System.Buffers.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\System.Collections.Immutable.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\System.Memory.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\System.Numerics.Vectors.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\System.Reflection.Metadata.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\madrasti School\ESchool\ESchool\bin\roslyn\vbc.exe
+E:\madrasti School\ESchool\ESchool\bin\roslyn\vbc.exe.config
+E:\madrasti School\ESchool\ESchool\bin\roslyn\vbc.rsp
+E:\madrasti School\ESchool\ESchool\bin\roslyn\VBCSCompiler.exe
+E:\madrasti School\ESchool\ESchool\bin\roslyn\VBCSCompiler.exe.config
+E:\madrasti School\ESchool\ESchool\bin\Antlr3.Runtime.dll
+E:\madrasti School\ESchool\ESchool\bin\BouncyCastle.Crypto.dll
+E:\madrasti School\ESchool\ESchool\bin\Common.Logging.Core.dll
+E:\madrasti School\ESchool\ESchool\bin\Common.Logging.dll
+E:\madrasti School\ESchool\ESchool\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\madrasti School\ESchool\ESchool\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\madrasti School\ESchool\ESchool\bin\CrystalDecisions.ReportSource.dll
+E:\madrasti School\ESchool\ESchool\bin\CrystalDecisions.Shared.dll
+E:\madrasti School\ESchool\ESchool\bin\EntityFramework.dll
+E:\madrasti School\ESchool\ESchool\bin\EntityFramework.SqlServer.dll
+E:\madrasti School\ESchool\ESchool\bin\itext.barcodes.dll
+E:\madrasti School\ESchool\ESchool\bin\itext.forms.dll
+E:\madrasti School\ESchool\ESchool\bin\itext.io.dll
+E:\madrasti School\ESchool\ESchool\bin\itext.kernel.dll
+E:\madrasti School\ESchool\ESchool\bin\itext.layout.dll
+E:\madrasti School\ESchool\ESchool\bin\itext.pdfa.dll
+E:\madrasti School\ESchool\ESchool\bin\itext.sign.dll
+E:\madrasti School\ESchool\ESchool\bin\itext.styledxmlparser.dll
+E:\madrasti School\ESchool\ESchool\bin\itext.svg.dll
+E:\madrasti School\ESchool\ESchool\bin\itextsharp.dll
+E:\madrasti School\ESchool\ESchool\bin\itextsharp.xmlworker.dll
+E:\madrasti School\ESchool\ESchool\bin\LinqToExcel.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.Core.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Facebook.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Google.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.OAuth.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Twitter.dll
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Web.Infrastructure.dll
+E:\madrasti School\ESchool\ESchool\bin\Newtonsoft.Json.dll
+E:\madrasti School\ESchool\ESchool\bin\Owin.dll
+E:\madrasti School\ESchool\ESchool\bin\QRCoder.dll
+E:\madrasti School\ESchool\ESchool\bin\Remotion.Data.Linq.dll
+E:\madrasti School\ESchool\ESchool\bin\Remotion.dll
+E:\madrasti School\ESchool\ESchool\bin\Remotion.Interfaces.dll
+E:\madrasti School\ESchool\ESchool\bin\Rotativa.Core.dll
+E:\madrasti School\ESchool\ESchool\bin\Rotativa.MVC.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.Compression.Base.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.DocIO.Base.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.EJ.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.EJ.Export.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.EJ.MVC.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.Licensing.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.Linq.Base.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.OfficeChart.Base.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.Pdf.Base.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.Presentation.Base.dll
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.XlsIO.Base.dll
+E:\madrasti School\ESchool\ESchool\bin\System.Web.Helpers.dll
+E:\madrasti School\ESchool\ESchool\bin\System.Web.Mvc.dll
+E:\madrasti School\ESchool\ESchool\bin\System.Web.Optimization.dll
+E:\madrasti School\ESchool\ESchool\bin\System.Web.Razor.dll
+E:\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.Deployment.dll
+E:\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.dll
+E:\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.Razor.dll
+E:\madrasti School\ESchool\ESchool\bin\WebGrease.dll
+E:\madrasti School\ESchool\ESchool\bin\zxing.dll
+E:\madrasti School\ESchool\ESchool\bin\zxing.presentation.dll
+E:\madrasti School\ESchool\ESchool\bin\Antlr3.Runtime.pdb
+E:\madrasti School\ESchool\ESchool\bin\BouncyCastle.Crypto.xml
+E:\madrasti School\ESchool\ESchool\bin\Common.Logging.pdb
+E:\madrasti School\ESchool\ESchool\bin\Common.Logging.xml
+E:\madrasti School\ESchool\ESchool\bin\Common.Logging.Core.pdb
+E:\madrasti School\ESchool\ESchool\bin\Common.Logging.Core.xml
+E:\madrasti School\ESchool\ESchool\bin\EntityFramework.xml
+E:\madrasti School\ESchool\ESchool\bin\EntityFramework.SqlServer.xml
+E:\madrasti School\ESchool\ESchool\bin\itext.barcodes.xml
+E:\madrasti School\ESchool\ESchool\bin\itext.forms.xml
+E:\madrasti School\ESchool\ESchool\bin\itext.io.xml
+E:\madrasti School\ESchool\ESchool\bin\itext.kernel.xml
+E:\madrasti School\ESchool\ESchool\bin\itext.layout.xml
+E:\madrasti School\ESchool\ESchool\bin\itext.pdfa.xml
+E:\madrasti School\ESchool\ESchool\bin\itext.sign.xml
+E:\madrasti School\ESchool\ESchool\bin\itext.styledxmlparser.xml
+E:\madrasti School\ESchool\ESchool\bin\itext.svg.xml
+E:\madrasti School\ESchool\ESchool\bin\itextsharp.xml
+E:\madrasti School\ESchool\ESchool\bin\LinqToExcel.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.Core.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Facebook.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Google.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.OAuth.xml
+E:\madrasti School\ESchool\ESchool\bin\Microsoft.Owin.Security.Twitter.xml
+E:\madrasti School\ESchool\ESchool\bin\Newtonsoft.Json.xml
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.Compression.Base.xml
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.DocIO.Base.xml
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.EJ.xml
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.EJ.Export.xml
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.Licensing.xml
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.Linq.Base.xml
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.OfficeChart.Base.xml
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.Pdf.Base.xml
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.Presentation.Base.xml
+E:\madrasti School\ESchool\ESchool\bin\Syncfusion.XlsIO.Base.xml
+E:\madrasti School\ESchool\ESchool\bin\System.Web.Helpers.xml
+E:\madrasti School\ESchool\ESchool\bin\System.Web.Mvc.xml
+E:\madrasti School\ESchool\ESchool\bin\System.Web.Optimization.xml
+E:\madrasti School\ESchool\ESchool\bin\System.Web.Razor.xml
+E:\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.xml
+E:\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.Deployment.xml
+E:\madrasti School\ESchool\ESchool\bin\System.Web.WebPages.Razor.xml
+E:\madrasti School\ESchool\ESchool\bin\zxing.xml
+E:\madrasti School\ESchool\ESchool\bin\zxing.presentation.xml
+E:\madrasti School\ESchool\ESchool\obj\Debug\ESchool.csproj.CoreCompileInputs.cache
+E:\madrasti School\ESchool\ESchool\obj\Debug\ESchool.csproj.CopyComplete
+E:\madrasti School\ESchool\ESchool\obj\Debug\ESchool.dll
+E:\madrasti School\ESchool\ESchool\obj\Debug\ESchool.pdb
+E:\madrasti School\ESchool\ESchool\obj\Debug\ESchool.csproj.AssemblyReference.cache
+E:\madrasti School\ESchool\ESchool\obj\Debug\ESchool.Migrations.InitialMigrations.resources
+E:\madrasti School\ESchool\ESchool\obj\Debug\ESchool.csproj.GenerateResource.cache

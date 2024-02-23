@@ -1,0 +1,95 @@
+﻿@model ESchool.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>التفاصيل</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.tel)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.tel)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IdentityId)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.IdentityId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EnglishName)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.EnglishName)
+        </dd>
+        @Html.DisplayNameFor(model => model.Dob)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Dob)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.nathionality)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.nathionality)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Mobile1)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Mobile1)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Mobile2)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.Mobile2)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.status)
+        </dt>
+
+        <dd class="form-control">
+            @Html.DisplayFor(model => model.status)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("تعديل", "Edit", new { id = Model.Id }, new { @class = "btn btn-mainColor" }) |
+    @Html.ActionLink("عودة للقائمة", "Index", null, new { @class = "btn btn-mainColor" })
+</p>

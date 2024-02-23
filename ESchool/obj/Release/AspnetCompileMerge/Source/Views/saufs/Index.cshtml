@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ESchool.Models.sauf>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<p>
+    @Html.ActionLink("اضافة صف", "Create",null,new {@class = "btn btn-mainColor" })
+</p>
+<table class="table table-bordered">
+    <tr class="bg-mainColor text-white">
+        <th>
+            الرقم الكودي
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.marhala.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Id)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.marhala.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td>
+        @Html.ActionLink("تعديل", "Edit", new { id = item.Id }, new { @class = "btn btn-mainColor" }) |
+        @Html.ActionLink("حذف", "Delete", new { id = item.Id }, new { @class = "btn btn-mainColor" })
+    </td>
+</tr>
+}
+
+</table>

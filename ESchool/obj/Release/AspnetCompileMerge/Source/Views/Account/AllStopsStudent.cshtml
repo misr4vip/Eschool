@@ -1,0 +1,158 @@
+﻿@model IEnumerable<ESchool.Models.ApplicationUser>
+
+@{
+    ViewBag.Title = "AllStopsStudent";
+    ESchool.Models.ApplicationDbContext db = new ESchool.Models.ApplicationDbContext();
+
+}
+
+<h2>الطلاب الموقوفين او المحولين  من المدارس</h2>
+
+<input type="text" placeholder="  يمكنك البحث برقم الهوية,اسم الطالب ,المرحلة,الصف,الفصل, رقم الجوال او حسب حالة التعثر " id="StudentSearch" class="form-control" />
+
+<table class="table table-bordered" id="tableStudent">
+    <tr class="bg-mainColor text-white">
+
+
+        <th>
+            @Html.DisplayNameFor(model => model.IdentityId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            المرحلة
+        </th>
+
+        <th>
+            الصف
+        </th>
+        <th>
+            الفصل
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Mobile1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Mobile2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            حالة تعثر
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        var memberClass = db.MemberClassYears.Where(m => m.MemberId == item.Id && m.IsCurrent).ToList().FirstOrDefault();
+        var marhala = db.marhalas.Find(memberClass.marhalaId);
+        var sauf = db.saufs.Find(memberClass.SaufId);
+        var classRoom = db.ClassRooms.Find(memberClass.ClassId);
+        string status;
+        if (item.expenses.Sum(e => e.ExpensesValue) > item.disposals.Sum(d => d.Amount))
+        {
+            status = "نعم";
+        }
+        else
+        {
+            status = "لا";
+        }
+        <tr>
+
+
+            <td>
+                @Html.DisplayFor(modelItem => item.IdentityId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @marhala.Name
+            </td>
+            <td>
+                @sauf.Name
+            </td>
+            <td>
+                @classRoom.Name
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            @if (status.Equals("نعم"))
+            {
+                <td class="bg-danger text-white text-center">
+                    @status
+                </td>
+            }
+            else
+            {
+                <td class="bg-success text-white text-center">
+                    @status
+
+
+
+                </td>
+            }
+
+
+            <td>
+                <div class="dropdown">
+                    <button class="btn btn-mainColor dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                        الإجراءات
+                    </button>
+                    <ul class="dropdown-menu bg-mainColor" aria-labelledby="dropdownMenuButton1">
+                        <li>
+                            @Html.ActionLink("تعديل", "Edit", new { id = item.Id }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("تفاصيل", "Details", new { id = item.Id }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("ايقاف", "StopStudent", "MemberDatas", new { id = item.Id }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("البيانات الأكاديمية", "index", "MemberClassYears", new { memberId = item.Id }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("المديونيات", "index", "MemberExpenses", new { memberId = item.Id }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("اضافة مديونية", "create", "MemberExpenses", new { memberId = item.Id }, new { @class = "dropdown-item" })
+                        </li>
+
+                        <li>
+                            @Html.ActionLink("اضافة سند قبض", "Create", "DisposalDocuments", new { memberId = item.Id }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("عرض سندات القبض", "IndexById", "DisposalDocuments", new { memberId = item.Id }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("الوضع المالي", "BalanceById", "MemberDatas", new { memberId = item.Id }, new { @class = "dropdown-item" })
+
+                        </li>
+
+
+                    </ul>
+                </div>
+
+        </tr>
+    }
+
+</table>

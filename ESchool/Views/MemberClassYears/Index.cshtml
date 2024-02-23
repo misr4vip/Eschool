@@ -1,0 +1,81 @@
+﻿@model IEnumerable<ESchool.Models.MemberClassYear>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@{
+    if (Model.Count() < 1)
+    {
+        <h3 class="text-mainColor">عفوا لم يتم اضافة البيانات الأكاديمية حتى الان </h3>
+        <br />
+        <p >
+            @Html.ActionLink("اضافة", "Create", new { memberId = ViewBag.MemberId }, new {@class="btn btn-mainColor" })
+        </p>
+    }
+    else
+    {
+        ESchool.Models.ApplicationDbContext db = new ESchool.Models.ApplicationDbContext();
+      
+        <table class="table table-bordered">
+            <tr class="bg-mainColor text-center text-white">
+                <th>
+                    @Html.DisplayNameFor(model => model.MemberId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Year)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.marhalaId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SaufId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClassId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IsCurrent)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                var marhala = db.marhalas.Find(item.marhalaId);
+                var Sauf = db.saufs.Find(item.SaufId);
+                var fasl = db.ClassRooms.Find(item.ClassId);
+                var member = db.Users.Find(item.MemberId);
+        <tr class="text-center">
+            <td>
+                @member.Name
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @marhala.Name
+            </td>
+            <td>
+                @Sauf.Name
+            </td>
+            <td>
+                @fasl.Name
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsCurrent)
+            </td>
+            <td>
+                @Html.ActionLink("تعديل", "Edit", new { id = item.Id }, new { @class = "btn btn-mainColor" })
+
+            </td>
+        </tr>
+            }
+
+        </table>
+
+
+    }
+}
+

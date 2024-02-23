@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    ESchool.Models.ApplicationDbContext db = new ESchool.Models.ApplicationDbContext();
+    var Myuser = db.Users.Where(m => m.UserName == User.Identity.Name).ToList().FirstOrDefault();
+    if (Myuser != null)
+    {
+        using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+        {
+            @Html.AntiForgeryToken()
+
+            <ul class="nav navbar-nav navbar-right">
+                <li class="nav-item">
+                    @Html.ActionLink("مرحبا " + Myuser.Name + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage", @class = "nav-link" })
+                </li>
+                <li class="nav-item"><a class="nav-link" href="javascript:document.getElementById('logoutForm').submit()">تسجيل خروج</a></li>
+            </ul>
+
+        }
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}

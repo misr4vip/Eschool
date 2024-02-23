@@ -1,0 +1,98 @@
+﻿@model ESchool.Models.DisposalDocument
+
+@{
+    ViewBag.Title = "Details";
+   
+   
+}
+
+
+<hr />
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-4 mb-5">
+            <h5>شركة الحصيني المتحدة</h5>
+            <h6>فرع مدارس رياض الإسلام الأهلية بنين</h6>
+            <span>تحت اشراف وزارة التعليم</span><br />
+
+        </div>
+        <div class="col-4">
+            <img class="img-thumbnail" src="~/Images/logo.png" width="200" height="200" />
+        </div>
+        <div class="col-4">
+            <span>الدمام ص.ب 332 الرمز البريدي 31411</span><br />
+            <span>ترخيص : 4322310149</span><br />
+            <span>الرقم الضريبي : 300509915200003</span>
+        </div>
+        <div class="col-5 mt-5 text-center">
+            سند رقم:
+            @Model.Id
+        </div>
+        <div class="col-md-2 text-center border-box  mt-5 ">
+            #@Html.DisplayFor(model => model.Amount)#
+        </div>
+        <div class="col-5 mt-5 text-center mb-2">
+            @Html.DisplayNameFor(model => model.DateOfPay):
+            @Html.DisplayFor(model => model.DateOfPay)
+        </div>
+        <div class="col-6 mb-3"></div>
+        <div class="col-8 mb-3 ">
+            استلمنا من المكرم ولي امر الطالب  :
+
+            @Html.DisplayFor(model => model.user.Name)
+
+        </div>
+        <div class="col-4 mb-3">
+            جوال رقم :
+            @Html.DisplayFor(model => model.user.Mobile1)
+        </div>
+        <div class="col-6 mb-2">
+            مبلغاً وقدره :
+
+            فقط
+            @N2C.ConvertN2C.ConvertNow(Model.Amount, "ريال", "هلله")
+            لاغير
+        </div>
+
+
+
+
+        <div class="col-3">
+            @Html.DisplayNameFor(model => model.Thisfor):
+            @Html.DisplayFor(model => model.Thisfor)
+        </div>
+
+        <div class="col-3">
+            @Html.DisplayNameFor(model => model.payType):
+
+            @Html.DisplayFor(model => model.payType)
+        </div>
+        <div class="col-12">
+            @Html.DisplayNameFor(model => model.Notes):
+
+            @Html.DisplayFor(model => model.Notes)
+        </div>
+        <div class="col-9 mt-5">
+            <ul>
+                <li>هذا السند لا يحتاج لتوقيع او ختم </li>
+            </ul>
+        </div>
+        <div class="col-3 mt-5">
+            @{
+                string path = "../Images/QrCode" + Model.Id + ".jpg";
+            }
+            <img class="img-thumbnail" src="@path" width="200" height="200" alt="QrCode" /><br />
+            <span>امسح الباركود للاطلاع على السند</span>
+
+        </div>
+        @*<div class="offset-3 col-3">
+            <button onclick="window.print();">
+                طباعة
+            </button>
+        </div>*@
+
+
+    </div>
+
+    </div>

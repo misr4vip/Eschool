@@ -1,0 +1,111 @@
+﻿@{
+    ViewBag.Title = "الصفحة الرئيسية";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3 mb-2 ">
+            <div class="card text-center  bg-warning text-white" >
+                <div class="card-body">
+                    <h5 class="card-title">
+                        مسؤولين النظام
+                        @*<a href="~/Views/Home/Index.cshtml">~/Views/Home/Index.cshtml</a>*@
+                    </h5>
+                    <p class="card-text">@ViewBag.superAdmin</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 mb-2 ">
+
+            <div class="card text-center  bg-black text-white" >
+                <div class="card-body">
+                    <h5 class="card-title">
+                          مدراء النظام
+                    </h5>
+                    <p class="card-text">@ViewBag.Admin</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-2 ">
+
+            <div class="card text-center  bg-primary text-white" >
+                <div class="card-body">
+                    <h5 class="card-title">
+                          المحاسبين
+                    </h5>
+                    <p class="card-text">@ViewBag.Account</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-2">
+
+            <div class="card text-center  bg-mainColor text-white" >
+                <div class="card-body">
+                    <h5 class="card-title">
+                          المدراءوالوكلاء
+                    </h5>
+                    <p class="card-text">@ViewBag.Leader</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-2">
+
+            <div class="card text-center  bg-dark text-white" >
+                <div class="card-body">
+                    <h5 class="card-title">
+                          المشرفيين
+                    </h5>
+                    <p class="card-text">@ViewBag.SuperTeacher</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-2">
+
+            <div class="card text-center  bg-info text-white" >
+                <div class="card-body">
+                    <h5 class="card-title">
+                          المعلمين
+                    </h5>
+                    <p class="card-text">@ViewBag.Teacher</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-2">
+
+            <div class="card text-center  bg-light text-black" >
+                <div class="card-body">
+                    <h5 class="card-title">
+                          الطلاب
+                    </h5>
+                    <p class="card-text">@ViewBag.Student</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 mb-2">
+            <div class="card text-center  bg-danger text-white" >
+                <div class="card-body">
+                    <h5 class="card-title">
+                          الطلاب المتعثرين مادياً
+                    </h5>
+                    <p class="card-text">@ViewBag.Motaser</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 mb-2">
+            <div class="card text-center  bg-success text-white" >
+                <div class="card-body">
+                    <h5 class="card-title">
+                          الطلاب الغير متعثرين مادياً
+                    </h5>
+                    <p class="card-text">@ViewBag.notMotaser</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

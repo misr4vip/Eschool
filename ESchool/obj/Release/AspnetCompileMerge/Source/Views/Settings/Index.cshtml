@@ -1,0 +1,86 @@
+﻿@model IEnumerable<ESchool.Models.Setting>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<p class="">
+    @Html.ActionLink("اضافة عام جديد ", "Create",null,new {@class = "btn btn-mainColor" })
+</p>
+<table class="table table-bordered">
+    <tr class="bg-mainColor text-center text-white">
+        <th>
+            @Html.DisplayNameFor(model => model.yearOfStudy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.semster)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Primary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Intermediate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Secondary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Bus1Way)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Bus2Way)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Vat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsCurrent)
+        </th>
+        <th> الإجراءات</th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr class="text-center">
+    <td>
+        @Html.DisplayFor(modelItem => item.yearOfStudy)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.semster)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Primary)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Intermediate)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Secondary)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Bus1Way)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Bus2Way)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Vat)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.IsCurrent)
+    </td>
+    <td>
+        @Html.ActionLink("تعديل", "Edit", new { id = item.Id }, new { @class = "btn btn-mainColor" })
+        @{
+            if (User.IsInRole("Admin"))
+            {
+
+                Html.ActionLink("حذف", "Delete", new { id = item.Id }, new { @class = "btn btn-mainColor" });
+
+            }
+        }
+    </td>
+</tr>
+            }
+
+</table>
